@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App h1 {
+  color: red;
+  margin-right: 10px;
+}
+.box {
+  display: flex;
+  border: 1px solid;
+  padding: 20px;
+}
+.display {
+  display: none;
+}
+.expand {
+  width: 100%;
+}
