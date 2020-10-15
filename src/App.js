@@ -17,7 +17,7 @@ const App = () => {
     <div onClick={toggle} className="App">
       <div className="box">
         <h1 className={active ? "display" : ""} id="hide">
-          Hello CodeSandbox
+          Hello everyone
         </h1>
         <input
           className={active ? "expand" : ""}
